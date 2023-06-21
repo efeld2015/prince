@@ -1,1 +1,1 @@
-# prince
+# prince-landmarks-guide
